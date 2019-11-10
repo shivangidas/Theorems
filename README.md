@@ -1,2 +1,3 @@
-# Theorems
-All the theorems in my Machine Learning Masters
+# Theorems | Distributions | Algorithms
+
+All the things in my Machine Learning Masters
